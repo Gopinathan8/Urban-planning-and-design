@@ -32,3 +32,4 @@ Analyse outcomes, refine the plan, and present results via visuals and reports.
 ________________________________________
 ### 💡 Outcome
 A scalable and visually interactive framework that helps urban designers and city planners make smarter, data-informed decisions to build better cities.
+
